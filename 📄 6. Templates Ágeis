@@ -8,3 +8,31 @@ Uma história está pronta quando:
 - [ ] Tem impacto e objetivo definidos
 - [ ] É pequena o suficiente para caber em um sprint
 - [ ] Time entende o que deve ser feito
+
+# ✅ Definition of Done (DoD)
+
+Uma história está concluída quando:
+
+- [ ] Atende todos os critérios de aceitação
+- [ ] Foi testada
+- [ ] Não possui bugs conhecidos
+- [ ] Foi revisada pelo time
+- [ ] Está integrada ao ambiente
+- [ ] Está documentada quando necessário
+
+# ⭐ Retrospectiva Starfish
+
+## Keep Doing  
+## Less Of  
+## More Of  
+## Stop Doing  
+## Start Doing  
+
+# 📅 Planning Checklist
+
+- [ ] Objetivo do sprint definido
+- [ ] Backlog priorizado
+- [ ] Histórias refinadas
+- [ ] Dependências mapeadas
+- [ ] Capacidade do time definida
+- [ ] Riscos identificados
