@@ -1,0 +1,34 @@
+# 📈 Case: Workflow Improvement in a Telecom Squad
+
+## 🎯 Context
+The squad faced:
+- Low predictability
+- Frequent rework
+- Lack of clarity in the workflow
+- Long and unfocused ceremonies
+
+## 🔍 Diagnosis
+After analyzing metrics and observation:
+- Irregular lead time
+- Lack of Definition of Ready
+- Many external interruptions
+- Lack of WIP limits
+
+## 🛠️ Actions taken
+- Implementation of Kanban with explicit policies
+- Creation of Definition of Ready and Definition of Done
+- Facilitation of ceremonies focused on objectives and time
+- Introduction of metrics: CFD, lead time, and throughput
+- Work agreements with stakeholders
+
+## 📊 Results
+- 32% reduction in average lead time
+- 40% increase in predictability
+- Significant reduction in rework
+- More focused and productive ceremonies
+- More efficient team Engaged and autonomous
+
+## 💡 Learnings
+- Explicit policies increase alignment
+- Metrics are essential for decision-making
+- Structured facilitation improves focus and collaboration
