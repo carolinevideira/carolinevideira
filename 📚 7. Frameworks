@@ -1,16 +1,15 @@
-# 🌀 Scrum — Guia Prático
+# 🌀 Scrum — Practical Guide
 
-- Framework leve e iterativo
-- Baseado em empirismo
-- Papéis: PO, SM, Dev Team
-- Eventos: Sprint, Planning, Daily, Review, Retrospective
-- Artefatos: Product Backlog, Sprint Backlog, Increment
+- Lightweight and iterative framework
+- Based on empiricism
+- Roles: PO, SM, Dev Team
+- Events: Sprint, Planning, Daily, Review, Retrospective
+- Artifacts: Product Backlog, Sprint Backlog, Increment
 
-# 🟩 Kanban — Fluxo Contínuo
+# 🟩 Kanban — Continuous Flow
 
-- Visualização do fluxo
-- Limites de WIP
-- Políticas explícitas
-- Métricas: lead time, throughput, CFD
-- Melhoria contínua
-
+- Flow visualization
+- WIP limits
+- Explicit policies
+- Metrics: lead time, throughput, CFD
+- Continuous improvement
