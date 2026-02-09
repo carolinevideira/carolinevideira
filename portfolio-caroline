@@ -3,27 +3,27 @@
 ├── README.md
 │
 ├── cases
-│   ├── melhoria-fluxo-claro
-│   │   └── README.md
-│   ├── reducao-retrabalho-lingopass
-│   │   └── README.md
-│   └── facilitacao-cerimonias
-│       └── README.md
+│ ├── clear-flow-improvement
+│ │ └── README.md
+│ ├── lingopass-rework-reduction
+│ │ └── README.md
+│ └── ceremony-facilitation
+│ └── README.md
 │
-├── templates-agile
-│   ├── definition-of-ready.md
-│   ├── definition-of-done.md
-│   ├── retrospectiva-starfish.md
-│   ├── planning-checklist.md
-│   └── risk-board.md
+├── agile-templates
+│ ├── definition-of-ready.md
+│ ├── definition-of-done.md
+│ ├── retrospective-starfish.md
+│ ├── planning-checklist.md
+│ └── risk-board.md
 │
 ├── frameworks
-│   ├── scrum.md
-│   ├── kanban.md
-│   ├── safe.md
-│   └── management-3.0.md
+│ ├── scrum.md
+│ ├── kanban.md
+│ ├── safe.md
+│ └── management-3.0.md
 │
-└── learning-journal
-    ├── certificacoes.md
-    ├── cursos.md
-    └── estudos.md
+└── learning-journal 
+├──certificacoes.md 
+├──cursos.md 
+└── studies.md
