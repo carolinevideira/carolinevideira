@@ -1,0 +1,32 @@
+# 🔧 Case: Reducing Rework in a Digital Product
+
+## 🎯 Context
+The team was suffering from:
+- High volume of rework
+- Lack of alignment between areas
+- Inconsistent acceptance criteria
+- Lack of visibility into dependencies
+
+## 🔍 Diagnosis
+- Stories arrived incomplete
+- Lack of Definition of Ready (DoR)
+- Lack of communication between product, design, and tech
+- Absence of structured refinements
+
+## 🛠️ Actions taken
+- Implementation of weekly refinement ceremonies
+- Creation of a Definition of Ready
+- Adoption of acceptance criteria in Gherkin
+- Dependency mapping
+- Facilitation of alignment between areas
+
+## 📊 Results
+- 45% reduction in rework in 2 months
+- Increased story quality
+- More aligned and collaborative team
+- More predictable deliveries
+
+## 💡 Lessons learned
+- Refinement is essential For quality
+- Clear criteria reduce rework
+- Communication between departments avoids surprises
