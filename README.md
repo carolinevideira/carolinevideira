@@ -54,7 +54,7 @@ To act as a Scrum Master or Product Owner in global teams, contributing to team 
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/carolinevsantos
+- LinkedIn: https://linkedin.com/in/carolinevideira
 
-- Email: carolinevsantos@gmail.com
+- Email: caroline_videira@hotmail.com
 - Whatsapp: +39 347 4786 453
