@@ -1,32 +1,32 @@
-# 🧭 Case: Facilitação de Cerimônias e Engajamento
+# 🧭 Case: Ceremony Facilitation and Engagement
 
-## 🎯 Contexto
-O time apresentava:
-- Cerimônias longas
-- Falta de foco
-- Baixo engajamento
-- Falta de clareza nos objetivos
+## 🎯 Context
+The team presented:
+- Long ceremonies
+- Lack of focus
+- Low engagement
+- Lack of clarity in objectives
 
-## 🔍 Diagnóstico
-- Daily sem propósito
-- Planning sem preparação
-- Retrospectivas repetitivas
-- Falta de facilitação ativa
+## 🔍 Diagnosis
+- Daily meetings without purpose
+- Planning meetings without preparation
+- Repetitive retrospectives
+- Lack of active facilitation
 
-## 🛠️ Ações realizadas
-- Estruturação de agendas claras
-- Timeboxes rígidos
-- Técnicas de facilitação (Lean Coffee, 4Ls, Starfish)
-- Checklists para Planning e Review
-- Rodízio de facilitadores
+## 🛠️ Actions taken
+- Structuring clear agendas
+- Rigid timeboxes
+- Facilitation techniques (Lean Coffee, 4Ls, Starfish)
+- Checklists for Planning and Review
+- Rotation of facilitators
 
-## 📊 Resultados
-- Cerimônias 35% mais curtas
-- Engajamento visivelmente maior
-- Time mais autônomo
-- Melhor comunicação interna
+## 📊 Results
+- Ceremonies 35% shorter
+- Visibly higher engagement
+- More autonomous team
+- Improved internal communication
 
-## 💡 Aprendizados
-- Facilitação muda o clima do time
-- Objetivos claros aumentam foco
-- Variedade de dinâmicas evita monotonia
+## 💡 Learnings
+- Facilitation changes the team's climate
+- Clear objectives increase focus
+- Variety of dynamics avoids monotony
