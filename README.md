@@ -1,58 +1,60 @@
-# 👋 Olá, eu sou a Caroline Videira Santos
+# 👋 Hello, I'm Caroline Videira Santos
 
-Scrum Master | Product Owner | Agile Leader  
-Experiência internacional no Brasil e Itália  
-Foco em pessoas, fluxo, previsibilidade e melhoria contínua
-
----
-
-## 🚀 Sobre mim
-
-Sou Scrum Master, PMO e Analista de Sistemas com mais de 6 anos de experiência em ambientes ágeis.  
-Atuei em telecom, edtech e produtos digitais, liderando squads multidisciplinares, facilitando cerimônias, reduzindo retrabalho e aumentando previsibilidade.
-
-Tenho formação em Pedagogia e certificações avançadas em agilidade (PSM I®, KSD, SAFe® 6 Agilist em andamento, Management 3.0).  
-Minha abordagem combina **liderança servidora**, **comunicação clara**, **orientação a dados** e **foco em pessoas**.
+Scrum Master | Product Owner | Agile Leader
+International experience in Brazil and Italy
+Focus on people, flow, predictability, and continuous improvement
 
 ---
 
-## 📂 O que você encontra neste portfólio
+## 🚀 About me
 
-### **📁 Cases reais**
-- Melhoria de fluxo em squads de telecom  
-- Redução de retrabalho em produto digital  
-- Facilitação de cerimônias e aumento de engajamento  
-- Implantação de Kanban e métricas (CFD, lead time, throughput)
+I am a Scrum Master, PMO, and Systems Analyst with over 6 years of experience in agile environments.
 
-### **📁 Templates ágeis**
-- Definition of Ready  
-- Definition of Done  
-- Modelos de retrospectiva  
-- Checklists de Planning e Review  
-- Board de riscos  
+I have worked in telecom, edtech, and digital products, leading multidisciplinary squads, facilitating ceremonies, reducing rework, and increasing predictability.
+
+I have a degree in Pedagogy and advanced certifications in agility (PSM I®, KSD, SAFe® 6 Agilist in progress, Management 3.0).
+
+My approach combines **servant leadership**, **clear communication**, **data-driven**, and **people-focused**.
+
+---
+
+## 📂 What you'll find in this portfolio
+
+### **📁 Real-world Cases**
+- Improved workflow in telecom squads
+- Reduced rework in digital products
+- Facilitation of ceremonies and increased engagement
+- Implementation of Kanban and metrics (CFD, lead time, throughput)
+
+### **📁 Agile Templates**
+- Definition of Ready
+- Definition of Done
+- Retrospective templates
+- Planning and Review checklists
+- Risk board
 
 ### **📁 Frameworks**
-- Scrum explicado de forma prática  
-- Kanban aplicado a times reais  
-- SAFe com exemplos  
-- Práticas de Management 3.0  
+- Scrum explained practically
+- Kanban applied to real teams
+- SAFe with examples
+- Management 3.0 practices
 
 ### **📁 Learning Journal**
-- Certificações  
-- Cursos  
-- Resumos de livros  
-- Estudos de caso  
+- Certifications
+- Courses
+- Book summaries
+- Case studies
+
+---
+## 🌍 Objective
+
+To act as a Scrum Master or Product Owner in global teams, contributing to team evolution, workflow improvement, and continuous value delivery.
 
 ---
 
-## 🌍 Objetivo
+## 📫 Contact
 
-Atuar como Scrum Master ou Product Owner em equipes globais, contribuindo para a evolução de times, melhoria de fluxo e entrega de valor contínua.
+- LinkedIn: https://linkedin.com/in/carolinevsantos
 
----
-
-## 📫 Contato
-
-- LinkedIn: https://linkedin.com/in/carolinevsantos  
 - Email: carolinevsantos@gmail.com
-- Whatsapp: +39 3474786453
+- Whatsapp: +39 347 4786 453
